@@ -21,6 +21,7 @@ export default defineConfig({
 
         nav: [
             { text: 'Home', link: '/' },
+            { text: '简盒定制', link: '/jianhebox' },
             { text: 'Getting Started', link: '/getting-started' },
             { text: 'Tools', link: '/tools/' },
             { text: 'Self-Hosting', link: '/self-hosting/' },
