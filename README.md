@@ -1,3 +1,14 @@
+<p align="center">
+  <strong>🚀 简盒 JianHeBox 定制版</strong><br>
+  隐私优先的客户端 PDF 工具集 · 100% 浏览器端处理,文件不上传任何服务器<br>
+  <br>
+  基于 <a href="https://github.com/alam00000/bentopdf">BentoPDF</a> (by alam00000) fork 构建,遵循 <a href="https://www.gnu.org/licenses/agpl-3.0.html">AGPL-3.0</a> 协议<br>
+  <br>
+  🌐 <a href="https://jianhebox.cn">jianhebox.cn</a> · <a href="https://jianhebox.com">jianhebox.com</a> · 工具页:<a href="https://jianhebox.cn/tools/pdf-md/">/tools/pdf-md/</a>
+</p>
+
+---
+
 <p align="center"><img src="public/images/favicon-no-bg.svg" width="80"></p>
 <h1 align="center">BentoPDF</h1>
 <p align="center">
