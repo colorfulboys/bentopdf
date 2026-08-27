@@ -432,6 +432,7 @@ async function generateI18nPages() {
 }
 
 generateI18nPages().catch((err) => {
-  console.error('❌ i18n page generation failed:', err);
-  process.exit(1);
+  // i18n 静态页面生成失败不应阻塞部署（CF Pages 上运行时仍能切语言）
+  console.warn('⚠️ i18n page generation skipped (deploy will continue):', err.message);
+  process.exit(0);
 });
