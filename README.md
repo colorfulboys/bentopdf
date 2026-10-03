@@ -5,6 +5,14 @@
   基于 <a href="https://github.com/alam00000/bentopdf">BentoPDF</a> (by alam00000) fork 构建,遵循 <a href="https://www.gnu.org/licenses/agpl-3.0.html">AGPL-3.0</a> 协议<br>
   <br>
   🌐 <a href="https://jianhebox.cn">jianhebox.cn</a> · <a href="https://jianhebox.com">jianhebox.com</a> · 工具页:<a href="https://jianhebox.cn/tools/pdf-md/">/tools/pdf-md/</a>
+
+### 相关教程
+
+- 📄 [PDF 转 Word 完整教程 (jianhebox.cn)](https://www.jianhebox.cn/article-pdf-to-word-guide.html)
+- 🎬 [FCPXML 字幕转换完全指南 (jianhebox.com)](https://www.jianhebox.com/article-fcpxml-guide.html)
+- 🖼️ [人声分离完全指南 (jianhebox.cn)](https://www.jianhebox.cn/article-voice-extract.html)
+- 📚 [简盒文章合集 - 浏览器免费 AI 工具教程](https://www.jianhebox.cn/articles.html)
+- 🇬🇧 [Browse AI Tools Suite - English Articles](https://www.jianhebox.com/articles.html)
 </p>
 
 ---
